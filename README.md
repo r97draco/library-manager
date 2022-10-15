@@ -17,7 +17,7 @@ Python application for library management using SQLite3 database
 
 ## About application
 1. This application can be used for a library management system.
-<br><br>![alt txt](Welcome.png)<br>
+<br><br>![alt txt](Welocome.png)<br>
 2. You can add, delete, issue and see subject wise books of the library.
 <br><br>![alt txt](Books.png)<br>
 3. You can add and view memebers of libraray as well as can recognise defaulters.
