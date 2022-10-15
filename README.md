@@ -14,6 +14,7 @@ Python application for library management using SQLite3 database
 1. Clone or download the project.
 2. Dowload [Python](https://www.python.org/downloads/) and [SQLite3](https://pypi.org/project/db-sqlite3/).
 3. Run [Library.py](Library.py) file.
+```python3 Library.py```
 
 ## About application
 1. This application can be used for a library management system.
